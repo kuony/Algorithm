@@ -24,6 +24,7 @@
     <ProjectGuid>{b675493f-5fbe-48d4-a564-2d42906b5326}</ProjectGuid>
     <RootNamespace>인덱스트리</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Segment tree</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
