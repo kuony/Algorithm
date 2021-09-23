@@ -24,55 +24,13 @@
     <ClCompile Include="백준_동적계획법_11659_구간합구하기4[완].cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="백준_동적계획법_11660_구간합구하기5.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="백준_동적계획법_11049_행렬곱셈순서[완].cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준_동적계획법_14003_가장긴증가하는부분수열5.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="백준_획법_7579_앱[완].cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="백준_동적계획법_11062_카드게임[완].cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준_동적계획법_2449_전구.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준_동적계획법_1102_발전소.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준_동적계획법_7578_공장.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준_동적계획법_2579_계단오르기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준_동적계획법_1915_가장큰정사각형.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준_동적계획법_5582_공통부분문자열.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준_동적계획법_9252_LCS2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준_동적계획법_5626_제단.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준_동적계획법_2342_DanceDance.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준_동적계획법_2098_외판원순회.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준_동적계획법_2618_경찰차.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준_동적계획법_10714_케이크자르기2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
