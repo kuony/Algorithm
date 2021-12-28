@@ -75,5 +75,8 @@
     <ClCompile Include="세그먼트트리_11658_구간합구하기3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="b_12015.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
