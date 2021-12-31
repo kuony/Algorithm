@@ -8,6 +8,7 @@ https://www.acmicpc.net/problem/1520
 
 아놔... 바보같이 마지막에 최적화 한답시고 코드 고쳤다가 오답 두번 제출했다..
 
+
 */
 
 #include<iostream>
